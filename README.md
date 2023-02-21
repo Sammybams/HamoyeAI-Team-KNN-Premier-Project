@@ -5,7 +5,7 @@ HDSC Winter '23 Team KNN Premier Project
 <ul>
 <li><a href="#introduction">Introduction</a></li>
 <li><a href="#aimsandobj">Aims and Objectives</a></li>
-<li><a href="#projectflow">Project FLow</a></li>
+<li><a href="#projectflow">Project Flow</a></li>
 <li><a href="#conclusion">Conclusion</a></li>
 <li><a href="#recommendations">Recommendations</a></li>
 </ul>
@@ -21,7 +21,7 @@ However, the quality of sleep each individual gets is affected by a range of fac
 This project’s major aim is to determine the factors affecting an individual’s sleep efficiency, using machine learning methods and exploratory data analysis. In other words, Team KNN wanted to use this project to describe the trends in sleep efficiency using available data, and to predict future subjects’ sleep efficiency using data modelling and machine learning. Insights could also be applied to real-life subjects.
 
 <a id='projectflow'></a>
-##Project Flow
+## Project Flow
 To achieve the set aims and objectives for this project, we followed these listed steps:
 - Data Sourcing & Description of Features
 - Data Preparation/Cleaning
